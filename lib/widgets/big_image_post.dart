@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kun_uz_clone/helpers/utils.dart';
 import 'package:lorem_cutesum/lorem_cutesum.dart';
-import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class BigImagePost extends StatelessWidget {
   const BigImagePost({

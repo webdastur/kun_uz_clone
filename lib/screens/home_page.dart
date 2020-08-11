@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:intl/intl.dart';
 import 'package:kun_uz_clone/helpers/utils.dart';
 import 'package:kun_uz_clone/widgets/big_image_post.dart';
 import 'package:kun_uz_clone/widgets/first_post_with_big_image.dart';
@@ -10,8 +8,6 @@ import 'package:kun_uz_clone/widgets/post_big_image_with_title.dart';
 import 'package:kun_uz_clone/widgets/post_only_with_title.dart';
 import 'package:kun_uz_clone/widgets/post_with_title_and_image_left.dart';
 import 'package:kun_uz_clone/widgets/post_with_title_and_image_right.dart';
-import 'package:lorem_cutesum/lorem_cutesum.dart';
-import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class HomePage extends StatelessWidget {
   HomePage();

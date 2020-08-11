@@ -1,16 +1,10 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:kun_uz_clone/screens/articles_page.dart';
 import 'package:kun_uz_clone/screens/home_page.dart';
 import 'package:kun_uz_clone/screens/lenta_page.dart';
 import 'package:kun_uz_clone/screens/media_page.dart';
 import 'package:kun_uz_clone/widgets/app_drawer.dart';
-import 'package:kun_uz_clone/widgets/first_post_with_big_image.dart';
-import 'package:kun_uz_clone/widgets/post_only_with_title.dart';
-import 'package:lorem_cutesum/lorem_cutesum.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class AppPage extends StatefulWidget {
