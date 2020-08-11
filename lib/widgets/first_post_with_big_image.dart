@@ -15,7 +15,6 @@ class FirstPostWithBigImage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: size.height * 0.70,
       width: size.width,
       child: Column(
         children: [
