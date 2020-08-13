@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/webdastur/kun_uz_clone)](https://github.com/webdastur/kun_uz_clone/stargazers)
 [![GitHub license](https://img.shields.io/github/license/webdastur/kun_uz_clone)](https://github.com/webdastur/kun_uz_clone)
 
-# Kun.Uz News Website clone App Only UI with Fake Data
+# Flutter | Kun.Uz News Website clone App Only UI with Fake Data
 
 <p style="margin-bottom:40px;">
   <img src="https://raw.githubusercontent.com/webdastur/kun_uz_clone/master/screenshots/1.jpg"  height=440 style="max-height: 440px;">
